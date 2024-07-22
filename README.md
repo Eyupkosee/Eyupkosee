@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eyup</h1>
-<h3 align="center">A passionate mobile developer from Turkey</h3>
+<h3 align="center">A passionate Software Engineer from Turkey</h3>
 <img align='right' alt='coding' width='400' src='https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif'/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyupkosee&label=Profile%20views&color=0e75b6&style=flat" alt="eyupkosee" /> </p>
