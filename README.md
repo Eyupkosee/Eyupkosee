@@ -1,25 +1,27 @@
 <h1 align="center">Hi 👋, I'm Eyup</h1>
 <h3 align="center">💻 Passionate Software Engineer | iOS & React Native Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
-
 ---
 
-### 🚀 About Me  
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+
+
+### About Me  
 - 📱 I develop **iOS (Swift, UIKit, SwiftUI)** and **cross-platform apps (React Native)**  
 - 🌱 Currently learning and improving my skills in **TypeScript & Cloud Integration**  
 - ⚡ I enjoy building apps that **solve real-world problems**  
 - 📫 Reach me at **eyupkose.work@gmail.com**
 
----
 
-### 🌐 Connect with me  
+
+
+### Connect with me  
 <a href="https://linkedin.com/in/eyüp-köse-279b73237" target="blank"><img src="https://img.shields.io/badge/-Eyup%20Kose-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/eyupp.p" target="blank"><img src="https://img.shields.io/badge/-eyupp.p-purple?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 ---
 
-### 🛠️ Languages & Tools  
+### Languages & Tools  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
@@ -35,7 +37,7 @@
 
 ---
 
-### 📊 GitHub Stats  
+### GitHub Stats  
 
 <table align="center">
 <tr>
@@ -47,13 +49,8 @@
 </tr>
 </table>
 
----
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/eyupkosee/eyupkosee/main/dist/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---
-
-### ✨ Fun Fact  
-_"Code is like humor. When you have to explain it, it’s bad."_ 😄
+ 
+Code is like humor. When you have to explain it, it’s bad.
