@@ -44,9 +44,6 @@
 <td><img src="https://github-readme-stats.vercel.app/api?username=eyupkosee&show_icons=true&theme=tokyonight" alt="Eyup's GitHub stats" /></td>
 <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=eyupkosee&theme=tokyonight" alt="eyupkosee" /></td>
 </tr>
-<tr>
-<td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=eyupkosee&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" /></td>
-</tr>
 </table>
 
 
