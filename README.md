@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eyup</h1>
-<h3 align="center">💻 Passionate Software Engineer | iOS & React Native Developer</h3>
+<h3 align="center">Software Engineer | iOS & React Native Developer</h3>
 
 ---
 
